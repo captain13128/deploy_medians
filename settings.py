@@ -20,8 +20,8 @@ if NETWORK.upper() == "MAINNET":
     ACCOUNT_PRIVATE_KEY = ""
     RPC_URL = "https://mainnet.infura.io/v3/****"
 
-    MEDIAN_ETHRUB_TX_SIGNER = "0xDb7A67fb3a6135c9d5167675ca8560B4bCAee912"
-    MEDIAN_BTCRUB_TX_SIGNER = "0xDb7A67fb3a6135c9d5167675ca8560B4bCAee912"
+    MEDIAN_ETHRUB_TX_SIGNER = "0xf077aeD04CA0ffD31a67dbc6bE9a21D844924f0C"
+    MEDIAN_BTCRUB_TX_SIGNER = "0xf077aeD04CA0ffD31a67dbc6bE9a21D844924f0C"
 
     PHRASE = "Please enter the address of the contract that was deployed " \
              "in this transaction https://etherscan.io/tx/{transaction} \n"
